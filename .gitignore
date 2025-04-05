@@ -2,3 +2,4 @@
 /backend
 /video-streamer
 .env
+.docker-compose.yml.swp
