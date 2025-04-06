@@ -1,6 +1,6 @@
 ## Деплой  
 0. Для билда фронтенда и бэкенда нужны `Maven` и `npm` с `nodejs` и еще нужен `Docker`
-1. Сделайте клон в `/backend` и `/frontend` из соответствующих [репозиториев](https://github.com/orgs/EnvelopeHack/repositories)
+1. Сделайте клон в `/backend` и `/frontend` и `/video-streamer` из соответствующих [репозиториев](https://github.com/orgs/EnvelopeHack/repositories)
 2. В `backend`:
 ```
 mvn clean package
@@ -13,4 +13,4 @@ npm run build
 ```
 docker compose up -d
 ```
-5. Готово
+5. Готово, у вас локальное решение кейса.
